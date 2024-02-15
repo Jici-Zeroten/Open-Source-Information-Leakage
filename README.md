@@ -355,7 +355,7 @@ m-n位的数字：^\d{m,n}$
 
 关于正则补充一个开发脚本时比较好用的正则插件，感谢 [`@及辞`](https://github.com/Jici-Zeroten) 师傅补充，如下：
 
-Cscode应用商店中搜索"**any-rule**"，其他IDE也有，在线版 [正则大全 (any-rule.vercel.app)](https://any-rule.vercel.app/)
+Vscode应用商店中搜索"**any-rule**"，其他IDE也有，在线版 [正则大全 (any-rule.vercel.app)](https://any-rule.vercel.app/)
 
 Github：[any86/any-rule: 常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台](https://github.com/any86/any-rule)
 
